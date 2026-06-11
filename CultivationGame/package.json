@@ -1,0 +1,11 @@
+{
+  "name": "cultivation-game",
+  "uuid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "version": "1.0.0",
+  "description": "修仙模拟器 - 微信小游戏",
+  "author": "coid-zhuji",
+  "main": "",
+  "creator": {
+    "version": "3.8.0"
+  }
+}
